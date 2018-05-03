@@ -1,0 +1,35 @@
+@media (max-width: 768px){
+	.sitephone {
+	    margin-left: -15px!important;
+	    margin-right: -15px!important;
+	}
+	.sc_heading {
+		text-align: center;
+	}
+}
+
+.thim-list-event .item-event .event-wrapper {
+    padding: 0 50px!important;
+}
+.thim-newlleter-homepage {
+    background: none!important;
+		background-color: #F8F8F8 !important;
+	}
+	.navigation .width-navigation .navbar-nav > li .sub-menu {
+	    background-color: rgba(252, 252, 252, 0.89)!important;
+	}
+.navigation .width-navigation .navbar-nav > li .sub-menu li > a {
+	color: #151414!important;
+}
+.thim-list-event .item-event .event-wrapper {
+    padding: 0px 60px!important;
+}
+.pmpro-has-access ul {
+    list-style-type: decimal!important;
+}
+#pg-12-6 {
+    margin-bottom: 0px!important;
+}
+.sc_heading {
+    padding-top: 20px!important;
+}

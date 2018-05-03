@@ -1,0 +1,11 @@
+<li id="menu-item-95" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-95 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><span class="tc-menu-inner">Features</span>
+  <ul class="sub-menu">
+    <li id="menu-item-6550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6550 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://educationwp.thimpress.com/membership-account/membership-levels/" class='tc-megamenu-title' class="tc-menu-inner">Membership</a></li>
+    <li id="menu-item-4451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4451 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://educationwp.thimpress.com/portfolio-masonry/" class='tc-megamenu-title' class="tc-menu-inner">Portfolio</a></li>
+    <li id="menu-item-3437" class="menu-item menu-item-type-post_type_archive menu-item-object-forum menu-item-3437 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://educationwp.thimpress.com/forums/" class='tc-megamenu-title' class="tc-menu-inner">Forums</a></li>
+    <li id="menu-item-2924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2924 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://educationwp.thimpress.com/about-us/" class='tc-megamenu-title' class="tc-menu-inner">About Us</a></li>
+    <li id="menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://educationwp.thimpress.com/faqs/" class='tc-megamenu-title' class="tc-menu-inner">FAQs</a></li>
+    <li id="menu-item-6418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6418 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="//educationwp.thimpress.com/demo-university-2/shop/" class='tc-megamenu-title' class="tc-menu-inner">Sidebar Shop</a></li>
+    <li id="menu-item-3126" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3126 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="//educationwp.thimpress.com/404-page" class='tc-megamenu-title' class="tc-menu-inner">404 Page</a></li>
+  </ul><!-- End wrapper ul sub -->
+</li>
